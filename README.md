@@ -1,0 +1,2 @@
+# MintermVisdat
+Tugas
